@@ -15,3 +15,5 @@
 10. Faça um programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-vespertino ou N-noturno. Imprima a mensagem “Bom dia!” ou “Boa Noite” ou “Valor inválido”, conforme o caso.
 11. Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor
 12. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1- Domingo , 2- Segunda, etc.) se digitar outro valor deve aparecer “valor inválido)
+
+13. Não existe :)
